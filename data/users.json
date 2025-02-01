@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "username": "johndoe",
+    "password": "hashed_password_123",
+    "age": 28,
+    "gender": "Male",
+    "address": {
+      "street": "123 Main St",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipcode": "90001"
+    },
+    "phone": "+1-202-555-0171",
+    "isActive": true,
+    "createdAt": "2025-01-01T10:30:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "janesmith@example.com",
+    "username": "janesmith",
+    "password": "hashed_password_456",
+    "age": 32,
+    "gender": "Female",
+    "address": {
+      "street": "456 Oak St",
+      "city": "New York",
+      "state": "NY",
+      "zipcode": "10001"
+    },
+    "phone": "+1-202-555-0148",
+    "isActive": false,
+    "createdAt": "2025-01-05T15:45:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Sophia Johnson",
+    "email": "sophiajohnson@example.com",
+    "username": "sophiajohnson",
+    "password": "hashed_password_987",
+    "age": 30,
+    "gender": "Female",
+    "address": {
+      "street": "789 Birch St",
+      "city": "Austin",
+      "state": "TX",
+      "zipcode": "73301"
+    },
+    "phone": "+1-202-555-0154",
+    "isActive": true,
+    "createdAt": "2025-01-18T12:00:00Z"
+  }
+]
